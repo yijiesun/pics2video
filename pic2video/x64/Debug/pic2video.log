@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\simit\simic\project\code\帧合成视频\pic2video\pic2video\main.cpp(54): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+  pic2video.vcxproj -> E:\SIMIT\SIMIC\project\CODE\帧合成视频\pic2video\x64\Debug\pic2video.exe
+  pic2video.vcxproj -> E:\SIMIT\SIMIC\project\CODE\帧合成视频\pic2video\x64\Debug\pic2video.pdb (Partial PDB)
